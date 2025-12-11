@@ -1,12 +1,13 @@
-# Smart-Surveillance-Parking-Camera-OpenCV
+# Algorithmic Solutions for Sustainable Urban Planning Using Computer Vision
 
 YouTube Video Link (Live Project Demo and Faculty Feedback): https://www.youtube.com/watch?v=rS8tCiAn4aM
 
-# Smart Surveillance Parking Camera
 
 ## Overview
 
-This project, led by Dr. Raghavendra Bhalerao, developed a Smart Surveillance Parking Camera system aimed at conserving energy in underground parking lots. The primary objective was to reduce overall energy consumption by selectively activating lights only when a vehicle is detected underneath.
+Research Guide: Dr. Raghavendra Bhalerao (https://scholar.google.com/citations?user=s-Jz28YAAAAJ&hl=en)
+
+This project, led by Dr. Bhalerao, developed a Smart Surveillance Parking Camera system aimed at conserving energy in underground parking lots. The primary objective was to reduce overall energy consumption by selectively activating lights only when a vehicle is detected underneath.
 
 ## Features
 
