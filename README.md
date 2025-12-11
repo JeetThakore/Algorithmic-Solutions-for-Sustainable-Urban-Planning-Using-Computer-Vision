@@ -1,4 +1,5 @@
-# Algorithmic Solutions for Sustainable Urban Planning Using Computer Vision
+# Algorithmic Solutions for Sustainable Urban Planning Using Computer Vision/ Smart Surveillance Parking Camera
+# Previously Known As: Smart Surveillance Parking Camera
 
 YouTube Video Link (Live Project Demo and Faculty Feedback): https://www.youtube.com/watch?v=rS8tCiAn4aM
 
